@@ -17,7 +17,7 @@ export default function App() {
           name="Home" 
           component={Home} 
           options={{
-            title: 'DNL Rotas',
+            title: 'DNL Rotas Novas',
             headerStyle:{backgroundColor:"#F58634"},
             headerTintColor:'#333',
             headerTitleAlign:'center',
