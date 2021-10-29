@@ -47,13 +47,12 @@ const css = StyleSheet.create({
     login__logomarca:{
         marginBottom: 15
     },
-    login__msg:(text='none')=>({
+    login__msg:{
         fontWeight:"bold",
         fontSize: 22,
         color:"red",
         marginBottom: 15,
-        display: text
-    }),
+    },
     login__form:{
         width: "80%"
     },
